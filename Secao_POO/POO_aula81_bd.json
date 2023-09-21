@@ -1,0 +1,26 @@
+[
+  {
+    "nome": "Nivaldo",
+    "sobrenome": "Souza",
+    "idade": 25,
+    "altura": 1.88
+  },
+  {
+    "nome": "Karoline",
+    "sobrenome": "Rafaela",
+    "idade": 24,
+    "altura": 1.75
+  },
+  {
+    "nome": "Heitor",
+    "sobrenome": "Martins",
+    "idade": 1,
+    "altura": 0.75
+  },
+  {
+    "nome": "Maria Liz",
+    "sobrenome": "Martins",
+    "idade": 1,
+    "altura": 0.75
+  }
+]
